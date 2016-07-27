@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace git_test
 {
-    public partial class sgr : System.Web.UI.Page
+    public partial class new_Temp : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

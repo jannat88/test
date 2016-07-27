@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="sgr.aspx.cs" Inherits="git_test.sgr" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="new_Temp.aspx.cs" Inherits="git_test.new_Temp" %>
 
 <!DOCTYPE html>
 

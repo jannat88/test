@@ -11,7 +11,7 @@ namespace git_test
 {
 
 
-    public partial class WebForm1
+    public partial class new_Temp
     {
 
         /// <summary>
